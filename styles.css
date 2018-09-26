@@ -1,0 +1,81 @@
+.container
+
+#nav-bar
+{
+	height: 100px;
+	width: 100%;
+	text-align: center;
+	padding: 15px;
+}
+
+ul
+{ 
+	list-style-type: none; 
+}
+
+
+.imgmax
+{
+	max-width: 500px;
+	max-height: 500px;
+}
+
+.font-hel-cookie
+{
+	font-size: 24px;
+    font-family: Helvetica;
+}
+
+.font-hel-price
+{
+	font-size: 16px;
+    font-family: Helvetica;
+}
+
+.font-robcon
+{
+	font-size: 16px;
+	font-family: Roboto Condensed;
+}
+
+#top
+{
+	text-align: center;
+}
+
+#middle
+{
+	text-align: center;
+}
+
+#bottom
+{
+	text-align: center;
+}
+
+#cookie1
+
+#cookie2
+
+#cookie3
+
+#cookie4
+
+#cookie1-title
+
+#cookie2-title
+
+#cookie3-title
+
+#cookie4-title
+
+#cookie1-price
+
+#cookie2-price
+
+#cookie3-price
+
+#cookie4-price
+
+#about-us
+
